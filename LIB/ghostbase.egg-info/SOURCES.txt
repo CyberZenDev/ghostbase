@@ -1,0 +1,8 @@
+setup.py
+ghostbase/__init__.py
+ghostbase/main.py
+ghostbase.egg-info/PKG-INFO
+ghostbase.egg-info/SOURCES.txt
+ghostbase.egg-info/dependency_links.txt
+ghostbase.egg-info/requires.txt
+ghostbase.egg-info/top_level.txt
